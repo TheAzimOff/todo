@@ -132,3 +132,8 @@ li.completed span{
 	background: #ff3838;
 	box-shadow: 0 0 10px #ff3838;
 }
+@media (max-width: 576px){
+	form {
+		width: 90%;
+	}
+}
